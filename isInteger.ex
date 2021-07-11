@@ -1,3 +1,4 @@
+# This module will check whether a value is integer or not.
 defmodule IsInteger do
   def main do
     check_is_integer()
